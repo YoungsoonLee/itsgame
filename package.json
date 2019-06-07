@@ -2,7 +2,7 @@
   "name": "react-mobx-realworld-example-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react-mobx.realworld.io",
+  "homepage": "https://youngsoonlee.github.io/itsgame",
   "license": "MIT",
   "devDependencies": {
     "custom-react-scripts": "0.2.0",
@@ -31,6 +31,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && gh-pages -d build"
   }
 }
