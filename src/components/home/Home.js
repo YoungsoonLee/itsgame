@@ -16,8 +16,7 @@ class Home extends Component {
 
     componentDidMount() {   
     }
-
-
+    
     render() {
         return (
             <Container text style={{ marginTop: '2em' }}>
