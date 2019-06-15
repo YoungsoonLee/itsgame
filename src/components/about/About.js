@@ -25,7 +25,7 @@ class About extends Component {
                     Its Game !!!
                 </Header>
                 <Header.Subheader>
-                    * We are the professional game publishing company base on Vancouver Canada.
+                    * We are the professional game publishing company in global.
                 </Header.Subheader>
                 <Header.Subheader>
                     * Publishing PC & Mobile game in global.
