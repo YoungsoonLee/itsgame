@@ -21,6 +21,7 @@ window._____APP_STATE_____ = stores;
 promiseFinally.shim();
 useStrict(true);
 
+/*
 ReactDOM.render((
   <Provider {...stores}>
     <Router>
@@ -28,3 +29,4 @@ ReactDOM.render((
     </Router>
   </Provider>
 ), document.getElementById('root'));
+*/
